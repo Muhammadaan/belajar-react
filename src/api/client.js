@@ -1,6 +1,6 @@
 import axios from "axios";
 
-export const API_BASE_URL = "http://postoko.haloaan.my.id/api/v1";
+export const API_BASE_URL = "https://postoko.haloaan.my.id/api/v1";
 
 // Instance Axios utama
 export const api = axios.create({
